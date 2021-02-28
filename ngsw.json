@@ -1,0 +1,99 @@
+{
+  "configVersion": 1,
+  "timestamp": 1614539695539,
+  "index": "https://wira-nec.github.io/sv-ladyfit/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://wira-nec.github.io/sv-ladyfit/4.6a0f9d796199a4173005.js",
+        "https://wira-nec.github.io/sv-ladyfit/favicon.ico",
+        "https://wira-nec.github.io/sv-ladyfit/index.html",
+        "https://wira-nec.github.io/sv-ladyfit/main.6f9adf96bcd4f538bf93.js",
+        "https://wira-nec.github.io/sv-ladyfit/manifest.webmanifest",
+        "https://wira-nec.github.io/sv-ladyfit/polyfills.6abdde2583a2e01a2350.js",
+        "https://wira-nec.github.io/sv-ladyfit/runtime.a75d2985edcfaaa3686d.js",
+        "https://wira-nec.github.io/sv-ladyfit/styles.32f026bafea5c939171d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://wira-nec.github.io/sv-ladyfit/assets/icons/android-chrome-128x128.png",
+        "https://wira-nec.github.io/sv-ladyfit/assets/icons/android-chrome-144x144.png",
+        "https://wira-nec.github.io/sv-ladyfit/assets/icons/android-chrome-152x152.png",
+        "https://wira-nec.github.io/sv-ladyfit/assets/icons/android-chrome-192x192.png",
+        "https://wira-nec.github.io/sv-ladyfit/assets/icons/android-chrome-384x384.png",
+        "https://wira-nec.github.io/sv-ladyfit/assets/icons/android-chrome-512x512.png",
+        "https://wira-nec.github.io/sv-ladyfit/assets/icons/android-chrome-72x72.png",
+        "https://wira-nec.github.io/sv-ladyfit/assets/icons/android-chrome-96x96.png",
+        "https://wira-nec.github.io/sv-ladyfit/assets/icons/android-chrome-icon-48x48.png",
+        "https://wira-nec.github.io/sv-ladyfit/assets/icons/apple-touch-icon-120x120.png",
+        "https://wira-nec.github.io/sv-ladyfit/assets/icons/apple-touch-icon-180x180.png",
+        "https://wira-nec.github.io/sv-ladyfit/assets/icons/apple-touch-icon-60x60.png",
+        "https://wira-nec.github.io/sv-ladyfit/assets/icons/apple-touch-icon-76x76.png",
+        "https://wira-nec.github.io/sv-ladyfit/assets/icons/apple-touch-icon.png",
+        "https://wira-nec.github.io/sv-ladyfit/assets/icons/favicon-16x16.png",
+        "https://wira-nec.github.io/sv-ladyfit/assets/icons/favicon-32x32.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://wira-nec.github.io/sv-ladyfit/4.6a0f9d796199a4173005.js": "f471d2c884ebbc6feb6ec06f32331de4ea771253",
+    "https://wira-nec.github.io/sv-ladyfit/assets/icons/android-chrome-128x128.png": "71dd0a1b88730b2dde47635f090055c572cda567",
+    "https://wira-nec.github.io/sv-ladyfit/assets/icons/android-chrome-144x144.png": "c2444bb96a6bfe07fda730cf15aadd1de68391e8",
+    "https://wira-nec.github.io/sv-ladyfit/assets/icons/android-chrome-152x152.png": "ac1c776896ecaeb469f950c841b1e4813e60ecb5",
+    "https://wira-nec.github.io/sv-ladyfit/assets/icons/android-chrome-192x192.png": "9ac5d2e27bde76541c1740d00ea6e18f49aaa9bd",
+    "https://wira-nec.github.io/sv-ladyfit/assets/icons/android-chrome-384x384.png": "1ef545e974478a9b363adf50153e750bf471707f",
+    "https://wira-nec.github.io/sv-ladyfit/assets/icons/android-chrome-512x512.png": "a950a3a13b0df5cfd3a05422afd72190c2390372",
+    "https://wira-nec.github.io/sv-ladyfit/assets/icons/android-chrome-72x72.png": "00294a0a4100c0b7c8e82e5e998a8d1408cbf7fe",
+    "https://wira-nec.github.io/sv-ladyfit/assets/icons/android-chrome-96x96.png": "d2ed1d84733e05dbe667dfbed5b1510c45236865",
+    "https://wira-nec.github.io/sv-ladyfit/assets/icons/android-chrome-icon-48x48.png": "05152693aa82ac16411bcf89d7c05c58bfba9a6a",
+    "https://wira-nec.github.io/sv-ladyfit/assets/icons/apple-touch-icon-120x120.png": "f240256e2cfa77d2d1c88a009a71ebd67ff14f25",
+    "https://wira-nec.github.io/sv-ladyfit/assets/icons/apple-touch-icon-180x180.png": "0708cf31584e2fb6b17708fdd8cdb466b6193c8e",
+    "https://wira-nec.github.io/sv-ladyfit/assets/icons/apple-touch-icon-60x60.png": "9899f5517c854db5c04a092a6aec8ed7e57d61f3",
+    "https://wira-nec.github.io/sv-ladyfit/assets/icons/apple-touch-icon-76x76.png": "8691953f9b9ad8103504a0e3b3afd87eed712810",
+    "https://wira-nec.github.io/sv-ladyfit/assets/icons/apple-touch-icon.png": "0708cf31584e2fb6b17708fdd8cdb466b6193c8e",
+    "https://wira-nec.github.io/sv-ladyfit/assets/icons/favicon-16x16.png": "398c88d77b975da2532cfbe4aa1efd416e100d0c",
+    "https://wira-nec.github.io/sv-ladyfit/assets/icons/favicon-32x32.png": "712554b94e500d914dd3702e9ad2b466e95f7580",
+    "https://wira-nec.github.io/sv-ladyfit/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://wira-nec.github.io/sv-ladyfit/index.html": "8ed3b6733ccf567c291eca5635ffc57c9ae52b1f",
+    "https://wira-nec.github.io/sv-ladyfit/main.6f9adf96bcd4f538bf93.js": "fa9a41d07f3f927f5597a455dc145a6ab625c83c",
+    "https://wira-nec.github.io/sv-ladyfit/manifest.webmanifest": "8017fb1953f243902c57bc1cfa3ee74af8b1c2d4",
+    "https://wira-nec.github.io/sv-ladyfit/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
+    "https://wira-nec.github.io/sv-ladyfit/runtime.a75d2985edcfaaa3686d.js": "f60c760680e8c512299f15667d2829a00b6acb40",
+    "https://wira-nec.github.io/sv-ladyfit/styles.32f026bafea5c939171d.css": "0a6fc73e1ff56f8a054c2b97fff22eea9899ad82"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
