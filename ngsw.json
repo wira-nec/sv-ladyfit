@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1615115513473,
+  "timestamp": 1615121070873,
   "index": "https://wira-nec.github.io/sv-ladyfit/index.html",
   "assetGroups": [
     {
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://wira-nec.github.io/sv-ladyfit/4.8b9668aeafba4cd88539.js",
+        "https://wira-nec.github.io/sv-ladyfit/4.7d1e911dd5a2d1366152.js",
         "https://wira-nec.github.io/sv-ladyfit/favicon.ico",
         "https://wira-nec.github.io/sv-ladyfit/index.html",
-        "https://wira-nec.github.io/sv-ladyfit/main.350af6f1956c8872e7cb.js",
+        "https://wira-nec.github.io/sv-ladyfit/main.57b78e8f5e6a39d296d0.js",
         "https://wira-nec.github.io/sv-ladyfit/manifest.webmanifest",
-        "https://wira-nec.github.io/sv-ladyfit/polyfills.2d2dca996bbf1b96000e.js",
-        "https://wira-nec.github.io/sv-ladyfit/runtime.c06222c85d4c2f5de854.js",
+        "https://wira-nec.github.io/sv-ladyfit/polyfills.3d5c352e517fc689f782.js",
+        "https://wira-nec.github.io/sv-ladyfit/runtime.e3bb46af192b045e96c2.js",
         "https://wira-nec.github.io/sv-ladyfit/styles.32f026bafea5c939171d.css"
       ],
       "patterns": []
@@ -52,7 +52,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://wira-nec.github.io/sv-ladyfit/4.8b9668aeafba4cd88539.js": "78bc76d5a2f7090191e1404f0fcf022d1535b5f5",
+    "https://wira-nec.github.io/sv-ladyfit/4.7d1e911dd5a2d1366152.js": "3c4df5dc15bb522d4c6e925938eee71c5f2533a9",
     "https://wira-nec.github.io/sv-ladyfit/assets/icons/android-chrome-128x128.png": "71dd0a1b88730b2dde47635f090055c572cda567",
     "https://wira-nec.github.io/sv-ladyfit/assets/icons/android-chrome-144x144.png": "c2444bb96a6bfe07fda730cf15aadd1de68391e8",
     "https://wira-nec.github.io/sv-ladyfit/assets/icons/android-chrome-152x152.png": "ac1c776896ecaeb469f950c841b1e4813e60ecb5",
@@ -70,11 +70,11 @@
     "https://wira-nec.github.io/sv-ladyfit/assets/icons/favicon-16x16.png": "398c88d77b975da2532cfbe4aa1efd416e100d0c",
     "https://wira-nec.github.io/sv-ladyfit/assets/icons/favicon-32x32.png": "712554b94e500d914dd3702e9ad2b466e95f7580",
     "https://wira-nec.github.io/sv-ladyfit/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://wira-nec.github.io/sv-ladyfit/index.html": "cf671ad5f6f363d975ef7bc5960b00da2c1ee78c",
-    "https://wira-nec.github.io/sv-ladyfit/main.350af6f1956c8872e7cb.js": "e631f9705f4fcc7c61e3bfd34bf39f22ca2d3948",
+    "https://wira-nec.github.io/sv-ladyfit/index.html": "d3d797773011d09f2a1d834c70acf563bbb47e66",
+    "https://wira-nec.github.io/sv-ladyfit/main.57b78e8f5e6a39d296d0.js": "d682c5e3f98db07944f9cdc43fc7cde1800b2c87",
     "https://wira-nec.github.io/sv-ladyfit/manifest.webmanifest": "0f27278670956dac1bfc62b8e90383210355ea02",
-    "https://wira-nec.github.io/sv-ladyfit/polyfills.2d2dca996bbf1b96000e.js": "874256cef08e18ce079c624f06a0e3cd331fee42",
-    "https://wira-nec.github.io/sv-ladyfit/runtime.c06222c85d4c2f5de854.js": "a358e35a29b65b42a5fd41a793cf05e1e43e3a65",
+    "https://wira-nec.github.io/sv-ladyfit/polyfills.3d5c352e517fc689f782.js": "9d4c1e459f66b720c01d23940608aba8e25e0885",
+    "https://wira-nec.github.io/sv-ladyfit/runtime.e3bb46af192b045e96c2.js": "be39c57aaba5b80d6a1939687c93d7b837f78349",
     "https://wira-nec.github.io/sv-ladyfit/styles.32f026bafea5c939171d.css": "0a6fc73e1ff56f8a054c2b97fff22eea9899ad82"
   },
   "navigationUrls": [
